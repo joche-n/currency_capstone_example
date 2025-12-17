@@ -96,3 +96,137 @@
 {"timestamp":"2025-12-17T13:54:44.783077","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
 {"timestamp":"2025-12-17T13:55:15.127493","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-12-17T13:55:15.149927","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T13:59:18.375666","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T13:59:18.400226","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T13:59:48.744010","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T13:59:48.776599","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:00:19.159570","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:00:19.182973","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:00:49.566104","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:00:49.593787","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:01:19.990850","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:01:20.013811","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:01:50.378072","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:01:50.412372","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:02:20.842974","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:02:20.867457","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:02:51.315629","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:02:51.339922","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:03:21.750585","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:03:21.776651","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:03:52.168401","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:03:52.196909","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:04:22.614073","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:04:22.642699","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:04:53.065229","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:04:53.098403","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:05:23.412794","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:05:23.438688","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:05:53.750361","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:05:53.776698","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:06:24.064628","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:06:24.104885","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:06:54.406603","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:06:54.437445","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:07:24.785456","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:07:24.812617","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:07:55.180214","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:07:55.203629","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:08:25.619542","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:08:25.648858","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:08:55.957636","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:08:55.975448","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:09:26.351719","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:09:26.404954","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:09:56.851351","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:09:56.874920","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:10:27.304794","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:10:27.333976","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:10:57.774116","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:10:57.806351","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:11:28.227448","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:11:28.257004","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:11:58.688338","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:11:58.716554","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:12:29.167605","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:12:29.216223","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:12:59.630733","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:12:59.678410","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:13:30.227994","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:13:30.268432","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:14:00.672543","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:14:00.707519","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:14:31.178475","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:14:31.206925","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:15:01.749307","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:15:01.789037","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:15:32.262245","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:15:32.302171","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:16:02.795175","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:16:02.825605","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:16:33.313803","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:16:33.343717","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:17:03.764011","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:17:03.793417","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:17:34.312485","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:17:34.369008","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:18:04.860986","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:18:04.893198","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:18:35.289547","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:18:35.313508","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:19:05.779976","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:19:05.819234","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:19:36.339916","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:19:36.371502","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:20:06.785316","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:20:06.820392","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:20:37.298624","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:20:37.327248","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:21:07.794204","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:21:07.829732","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:21:38.259541","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:21:38.287682","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:22:08.720582","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:22:08.752569","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:22:39.271863","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:22:39.304883","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:23:09.714758","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:23:09.738972","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:23:40.133469","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:23:40.158486","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:24:10.544234","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:24:10.565818","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:24:40.978681","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:24:41.003836","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:25:11.356904","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:25:11.372320","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:25:41.672489","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:25:41.689108","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:26:12.106993","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:26:12.131742","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:26:42.512056","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:26:42.533643","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:27:12.927095","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:27:12.953405","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:27:43.334177","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:27:43.356423","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:28:13.745952","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:28:13.773904","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:28:44.206159","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:28:44.232218","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:29:14.634773","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:29:14.667138","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:29:45.086313","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:29:45.111535","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:30:15.543669","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:30:15.568494","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:30:45.976192","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:30:46.001015","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:31:16.412244","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:31:16.447200","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:31:46.784874","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:31:46.811291","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:32:17.222090","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:32:17.251702","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
+{"timestamp":"2025-12-17T14:32:47.587481","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/currency_dbt_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-17T14:32:47.608520","level":"warning","event":"Skipping masking for a secret as it's too short (<5 chars)","logger":"airflow.sdk.execution_time.secrets_masker"}
