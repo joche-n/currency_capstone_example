@@ -2,7 +2,7 @@ capstone_currency_etl:
   target: dev
   outputs:
     dev:
-      account: ${{ secrets.SNOWFLAKE_ORGANIZATION_NAME }}+${{ secrets.SNOWFLAKE_ACCOUNT_NAME }}
+      account: ${{ secrets.SNOWFLAKE_ORGANIZATION_NAME }}-${{ secrets.SNOWFLAKE_ACCOUNT_NAME }}
       database: CAPSTONE_CURRENCY_DB
       password: ${{ secrets.SNOWFLAKE_PASSWORD }}
       role: ACCOUNTADMIN
