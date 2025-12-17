@@ -2,11 +2,12 @@ capstone_currency_etl:
   target: dev
   outputs:
     dev:
-      type: snowflake
-      account: WLMCZJD-EXC98223
-      user: vijay
-      password: Capstone1234567890
-      role: ACCOUNTADMIN
-      warehouse: COMPUTE_WH
+      account: dkpcykd-ai06391
       database: CAPSTONE_CURRENCY_DB
+      password: F6NhbBUxhGXpXBa
+      role: ACCOUNTADMIN
       schema: CAPSTONE_CURRENCY_SCHEMA
+      threads: 1
+      type: snowflake
+      user: JOCHENNEUE
+      warehouse: CAPSTONE_CURRENCY_WH
