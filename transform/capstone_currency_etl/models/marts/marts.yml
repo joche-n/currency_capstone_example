@@ -1,0 +1,40 @@
+version: 2
+
+models:
+  - name: currency_summary
+    description: "30-day summary metrics per base currency, with average, min, and max exchange rates for key target currencies."
+    columns:
+      - name: base_currency
+        description: "Base currency code (e.g., USD, EUR)."
+        tests:
+          - not_null
+
+      - name: observation_count
+        description: "Number of daily records in the 30-day window."
+        tests:
+          - not_null
+
+      - name: avg_eur_rate_30d
+        description: "Average USD-to-EUR exchange rate over the past 30 days."
+        tests:
+          - not_null
+
+      - name: min_eur_rate_30d
+        description: "Minimum USD-to-EUR exchange rate over the past 30 days."
+        tests:
+          - not_null
+
+      - name: max_eur_rate_30d
+        description: "Maximum USD-to-EUR exchange rate over the past 30 days."
+        tests:
+          - not_null
+
+      - name: avg_gbp_rate_30d
+        description: "Average USD-to-GBP exchange rate over the past 30 days."
+        tests:
+          - not_null
+
+      - name: avg_inr_rate_30d
+        description: "Average USD-to-INR exchange rate over the past 30 days."
+        tests:
+          - not_null

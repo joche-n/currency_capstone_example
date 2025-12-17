@@ -1,0 +1,14 @@
+# Rename the filename to profile.yml and update the creds. details
+
+capstone_currency_etl:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: ZGVFOTU-JZC04864
+      user: XXXX
+      password: YYYY
+      role: ACCOUNTADMIN
+      warehouse: COMPUTE_WH
+      database: CAPSTONE_CURRENCY_DB
+      schema: CAPSTONE_CURRENCY_SCHEMA

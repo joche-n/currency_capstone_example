@@ -1,0 +1,14 @@
+version: 2
+sources:
+  - name: RAW_CURRENCY
+    description: "Raw JSON payloads from currency API — one payload per row"
+    database: "{{ env_var('SNOWFLAKE_DATABASE', 'CAPSTONE_CURRENCY_DB')}}"
+    schema: "{{ env_var('SNOWFLAKE_SCHEMA', 'CAPSTONE_CURRENCY_SCHEMA')}}"
+    tables: 
+      - name: 'CAPSTONE_CURRENCY_RAW_TABLE'
+        description: "Raw payloads (VALUE is VARIANT, RAW_DATA may be VARCHAR JSON)"
+        columns:
+          - name: RAW_DATA
+            description: "Optional raw JSON string payload (VARCHAR)"
+          - name: VALUE
+            description: "Optional VARIANT column containing parsed JSON"

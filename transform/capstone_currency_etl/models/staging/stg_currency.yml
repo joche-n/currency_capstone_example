@@ -1,0 +1,35 @@
+version: 2
+
+models:
+  - name: stg_currency
+    description: "Staging table — one row per base currency and exchange date, with pivoted rates for each target currency."
+    columns:
+      - name: start_date
+        description: "Start date for the exchange rate period (one day before END_DATE)."
+        tests:
+          - not_null
+
+      - name: end_date
+        description: "Date for which the exchange rate applies."
+        tests:
+          - not_null
+
+      - name: base_currency
+        description: "Base currency code (e.g., USD, EUR)."
+        tests:
+          - not_null
+
+      - name: eur_rate
+        description: "Exchange rate of base currency to EUR."
+        tests:
+          - not_null
+
+      - name: gbp_rate
+        description: "Exchange rate of base currency to GBP."
+        tests:
+          - not_null
+
+      - name: inr_rate
+        description: "Exchange rate of base currency to INR."
+        tests:
+          - not_null

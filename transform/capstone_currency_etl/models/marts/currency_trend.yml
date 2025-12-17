@@ -1,0 +1,26 @@
+version: 2
+
+models:
+  - name: currency_trend
+    description: "Daily trend of pivoted rates (one row per end_date + base_currency)."
+    columns:
+      - name: end_date
+        description: "Date for which rates apply"
+        tests:
+          - not_null
+      - name: base_currency
+        description: "Base currency (USD, EUR, ...)"
+        tests:
+          - not_null
+      - name: eur_rate
+        description: "Daily EUR rate (pivoted)"
+        tests:
+          - not_null
+      - name: gbp_rate
+        description: "Daily GBP rate (pivoted)"
+        tests:
+          - not_null
+      - name: inr_rate
+        description: "Daily INR rate (pivoted)"
+        tests:
+          - not_null
