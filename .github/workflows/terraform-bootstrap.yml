@@ -32,7 +32,7 @@ jobs:
         run: |
           set -euo pipefail
           echo "Initializing bootstrap module (local backend so it can create the S3/DDB resources)..."
-          terraform init -input=false -backend=false
+          terraform init -input=false
 
       - name: Apply bootstrap
         working-directory: infra/bootstrap
