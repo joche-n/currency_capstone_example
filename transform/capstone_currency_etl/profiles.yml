@@ -2,9 +2,9 @@ capstone_currency_etl:
   target: dev
   outputs:
     dev:
-      account: dkpcykd-ai06391
+      account: ${{ secrets.SNOWFLAKE_ORGANIZATION_NAME }}+${{ secrets.SNOWFLAKE_ACCOUNT_NAME }}
       database: CAPSTONE_CURRENCY_DB
-      password: F6NhbBUxhGXpXBa
+      password: ${{ secrets.SNOWFLAKE_PASSWORD }}
       role: ACCOUNTADMIN
       schema: CAPSTONE_CURRENCY_SCHEMA
       threads: 1
