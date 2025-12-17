@@ -109,6 +109,24 @@ It must receive parameters in the following JSON structure:
 }
 ```
 
+```json
+{
+  "script_s3": "s3://capstone-currency-project-bucket-currency-jochen/scripts/currency_bootstrap.py",
+  "arguments": {
+    "--S3_OUTPUT": "s3://capstone-currency-project-bucket-currency-jochen/raw/",
+    "--START_DATE": "2025-05-01",
+    "--END_DATE": "TODAY",
+    "--CURRENCIES": "USD,GBP,EUR,INR",
+    "--ACCESS_KEY": "8bca14d83233afe6ac8ac339621efae8",
+    "--MAX_DAYS_PER_CALL": "365",
+    "--TempDir": "s3://capstone-currency-project-bucket-currency-jochen/temp/"
+  },
+  "metadata": {
+    "triggered_by": "manual"
+  }
+}
+```
+
 ![step-function](./assets/stepfunctions_graph.png)
 
 This payload is passed automatically from CI or can be used manually for ad-hoc runs.
